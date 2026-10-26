@@ -1,0 +1,71 @@
+.aboutSection{
+    padding: 4rem 6%;
+    background-color: rgb(246, 239, 242);
+    text-align: center;
+    
+}
+.containerAbout{
+    display: grid;
+    grid-template-columns: 1fr 1.8fr;
+    gap: 2rem;
+    overflow: hidden;
+    padding: 2rem 6rem;
+    text-align: left;
+}
+.containerAbout img{
+    width: 100%;
+    height: 400px;
+    border-radius: 10px;
+    border: 2px solid rgb(246, 235, 239);
+}
+.ourStory{
+    color: rgb(199, 90, 113);
+    padding-bottom: 0.5rem;
+}
+.titleAbout{
+    font-size: 42px;
+    padding-bottom: 2rem;
+}
+.titleAbout span{
+    text-decoration: underline;
+    text-underline-offset: 8px;
+    text-decoration-color: rgb(199, 90, 113);
+}
+.rightBoxAbout{
+    padding: 4rem 2rem;
+    line-height: 1.5;
+    background-color: rgb(245, 245, 245);
+    border-radius: 10px;
+    border: 2px solid rgb(246, 235, 239);
+}
+.secondTitleAbout{
+    color: rgb(84, 42, 62);
+    text-align: center;
+    padding: 2rem 0rem;
+    font-weight: 600;
+    
+}
+.secondContainerAbout{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 2rem;
+    background-color: rgb(180, 125, 131);
+    border-radius: 10px;
+    padding: 1rem;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    background: radial-gradient(circle,rgba(180, 125, 131, 1) 0%, rgba(246, 236, 237, 1) 100%);
+
+}
+.secondContainerAbout h3{
+    color: rgb(181, 126, 132);
+    padding-bottom: 1rem;
+}
+.secondContainerAbout p{
+    line-height: 1.5;
+    color: rgb(84, 42, 62);
+}
+.box{
+    background-color: white;
+    padding: 1rem;
+    border-radius: 10px;
+}
