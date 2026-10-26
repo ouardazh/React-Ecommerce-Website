@@ -7,7 +7,9 @@ function ProductsList(prd) {
    }
 
    function addToCart(){
-    
+     alert(prd.name +" Added to cart");
+      
+     
    }
   return (
     
