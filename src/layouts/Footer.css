@@ -1,0 +1,49 @@
+footer{
+    background-color: rgb(84, 42, 62);
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+    color: white;
+    padding: 1.5rem 6%;
+    line-height: 1.5;
+}
+.footerContainer{
+   display: flex;
+   flex-direction: column;
+   gap: 10px;
+}
+.footerContainer a{
+   text-decoration: none;
+   color: white;
+}
+footer input{
+    border: none;
+    padding: 10px 20px;
+    border-radius: 4px;
+    margin-top: 1rem;
+}
+.subscribebtn{
+    border: none;
+    padding: 10px 20px;
+    border-radius: 4px;
+    background-color: rgb(199, 90, 113);
+    color: white;
+    margin-left: 6px;
+    margin-top: 1rem;
+}
+footer p, a{
+    font-size: 13px;
+}
+.containerLogo1{
+    padding-right: 20px;
+    padding-bottom: 1rem;
+}
+.iconLogo1{
+    color: rgb(246, 236, 238);
+    padding-left: 2rem;
+    font-size: 17px;
+}
+.textLogo1{
+    color: rgb(246, 236, 238);
+    padding-left: 1.5rem;
+}
