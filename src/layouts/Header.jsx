@@ -24,8 +24,8 @@ function Header (){
                     <Link to="/">HOME</Link>
                     <Link to="/products">SHOP</Link>
                     <Link to="productlist">PRODUCTS</Link>
-                    <Link to="order">ORDER NOW</Link>
-                    <Link to="/about">ABOUT US</Link>
+                    <Link to="order">ORDER</Link>
+                    <Link to="/about">ABOUTUS</Link>
                     
                     {/* <a href="">HOME</a>
                     <a href="">SHOP</a>
