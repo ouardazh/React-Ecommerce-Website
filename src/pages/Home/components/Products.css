@@ -1,0 +1,84 @@
+.productsSection{
+    padding: 2rem 6%;
+}
+
+.firstBox{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    line-height: 1.5;
+}
+.icn{
+    font-size: 33px;
+    color: rgb(169, 90, 104);
+}
+.containeBoxes{
+    display: grid;
+   grid-template-columns: 1fr 1fr 1fr 1fr;
+    gap: 4rem;
+    border-radius: 10px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    padding: 1.5rem;
+
+
+}
+.titleShopByCategory{
+    padding-top: 4rem;
+    text-align: center;
+    padding-bottom: 2rem;
+}
+.titleShopByCategory span{
+    text-decoration: underline;
+    text-decoration-color: rgb(169, 90, 104);
+    text-underline-offset: 8px;
+}
+.shopByCategory{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+    gap: 20px;
+}
+.containerImg{
+    overflow: hidden;
+}
+.containerImg img{
+    width: 100%;
+    border-radius: 50%;
+    height: 150px;
+}
+.containerImg p{
+    padding: 0.8rem 0rem;
+    text-align: center;
+}
+.offerbox{
+    background-color: rgb(179, 124, 130);
+    color: white;
+    padding: 2rem;
+    line-height: 1.4;
+    height: 300px;
+}
+.offerbox h2{
+    font-size: 30px;
+    padding: 1.2rem 0rem;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.shopSaleBtn{
+    border: none;
+    border-radius: 3px;
+    padding: 10px;
+    color: rgb(179, 124, 130);
+    margin-top: 10px;
+}
+.containerOffer{
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    gap: 10px;
+    margin: 2rem 0rem;
+}
+.imageOffer{
+    overflow: hidden;
+}
+.imageOffer img{
+    width: 100%;
+    height: 300px;
+}
