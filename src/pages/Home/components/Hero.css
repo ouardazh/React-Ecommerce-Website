@@ -1,0 +1,26 @@
+
+.heroSection{
+    background-image: linear-gradient(
+      rgba(0, 0, 0, 0.45),
+      rgba(0, 0, 0, 0.45)
+    ),url("../../../assets/img/hero3.jfif");
+    background-size: cover;
+    background-position: center;
+    min-height: 70vh;
+}
+.titleHero{
+    font-size: 50px;
+    padding: 1rem 0rem;
+}
+.shopNow{
+    color: white;
+    background-color: rgb(164, 92, 104);
+    border: none;
+    border-radius: 4px;
+    padding: 10px;
+    margin-top: 2rem;
+}
+.leftContainer{
+    padding-left: 14%;
+    padding-top: 5%;
+}

@@ -1,4 +1,4 @@
-import "./ProductList.css";
+import './ProductsList.css';
 
 
 function ProductsList(prd) {

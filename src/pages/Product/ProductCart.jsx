@@ -1,5 +1,5 @@
-import ProductsList from "./components/ProductsList";
-import './ProductCart.css'
+import ProductsList from './components/ProductsList';
+import './ProductCart.css';
 import product1 from "../../assets/img/1.avif";
 import product2 from "../../assets/img/product2.avif";
 import product3 from "../../assets/img/product3.avif";
