@@ -1,0 +1,55 @@
+
+.firstHeader{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: rgb(169, 91, 105);
+    padding: 8px;
+    color: white;
+    font-size: 14px;
+}
+.containerIcons{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+.containerLogo{
+    text-align: center;
+}
+.containerLogo p{
+    color: rgb(170, 93, 109);
+}
+.iconLogo{
+    font-size: 20px;
+}
+.textLogo{
+    font-size: 14px;
+}
+.secondHeader{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0.6rem 6%;
+}
+nav{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 40px;
+}
+nav a{
+    text-decoration: none;
+    color: black;
+}
+nav a:hover{
+    color: rgb(170, 93, 109);
+}
+.basket{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    color: rgb(158, 84, 99);
+    font-size: 20px;
+}
