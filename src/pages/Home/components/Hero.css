@@ -24,3 +24,20 @@
     padding-left: 14%;
     padding-top: 5%;
 }
+
+
+/* !----------Tablet--------------- */
+@media (min-width: 601px) and (max-width: 1024px) {
+  
+}
+
+/* !-----------Mobile------------- */
+@media (max-width: 600px) {
+    
+.titleHero{
+    font-size: 40px;
+    padding: 1rem 0rem;
+}
+
+
+}

@@ -26,8 +26,8 @@ function Footer(){
 
             </div>
             
-
-            <div className='footerContainer'>
+            <div className='footerContainer1'>
+               <div className='footerContainer'>
                 <h4>Quick Links</h4>
                 <a href="">Home</a>
                 <a href="">Shop All</a>
@@ -41,7 +41,9 @@ function Footer(){
                 <a href="">Shipping Policy</a>
                 <a href="">Return & Refund</a>
                 <a href="">FAQs & Contact</a>
+            </div> 
             </div>
+            
 
 
             <div>

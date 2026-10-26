@@ -26,3 +26,23 @@
     text-underline-offset: 10px;
     text-decoration-color: rgb(199, 90, 113);
 }
+
+
+/* !----------Tablet--------------- */
+@media (min-width: 601px) and (max-width: 1024px) {
+  
+}
+
+/* !-----------Mobile------------- */
+@media (max-width: 600px) {
+   
+.icn1{
+    font-size: 30px;
+}
+.containeBoxes1{
+   grid-template-columns: 1fr ;
+    gap: 2rem;
+}
+
+
+}

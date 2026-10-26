@@ -89,7 +89,7 @@ function Product() {
         </div>
 
         <div className="firstBox">
-          <p className="icn">
+          <p className="icn1">
             <i class="fa-solid fa-arrow-rotate-left"></i>
           </p>
           <p>
